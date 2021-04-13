@@ -1,0 +1,6 @@
+# Python package dependencies
+# Install with `python3 -m pip install -r requirements.txt`
+
+# Falcon 3.0 switches from falcon.API() to falcon.App()
+falcon == 3.0
+gunicorn
